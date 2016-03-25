@@ -15,3 +15,10 @@ After that you will be able to switch language from a web interface **Personal S
 * Polish by [Leon@rdo](https://forum.sinusbot.com/resources/authors/leon-rdo.852/)
 * Brazilian by [Jean Santos](https://forum.sinusbot.com/resources/authors/jean-santos.1273/)
 * Italian by [UnwishingMoon](https://forum.sinusbot.com/resources/authors/unwishingmoon.252/)
+
+## Note for Authors
+A web service [jsoneditoronline.org](http://jsoneditoronline.org/) was used to make json content readable. 
+
+There you can paste unformatted json text on the left screen and then make a conversion into json object tree. Also the tree can be sorted by a key, for that click on icon on the left-top corner of the object tree and choose `Sort > Ascending`.
+
+Then click `Save > Save to disk` in the main menu.
