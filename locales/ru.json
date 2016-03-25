@@ -226,7 +226,7 @@
   "drop files or click here": "перетащите сюда файлы или нажмите здесь",
   "enqueue a track by its id or search for a track and enqueue the first match": "поставить в очередь трек по его идентификатору или искать трек и поставить в очередь первое совпадение",
   "enqueue an <url> via external youtube-dl (if enabled); beware: the file will be downloaded first and played back afterwards, so there might be a slight delay before playback starts": "поставить в очередь <URL> через внешний YouTube-DL (если включен); будьте осторожны: файл будет сначала загружен, воспроизведение начнется позже, так что может быть небольшая задержка перед началом воспроизведения",
-  "failed": "неудалось",
+  "failed": "не удалось",
   "files added to upload queue": "добавить файлы для загрузки в очередь",
   "increase the volume": "увеличить громкость",
   "none": "ни один",
