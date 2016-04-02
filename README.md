@@ -1,6 +1,6 @@
 # Installation
 
-Put languages files into `data/locales/` directory of SinusBot.
+Put languages files into `data/locales/` directory of SinusBot root.
 
 After that you will be able to switch language from a web interface **Personal Settings** section.
 
@@ -8,7 +8,7 @@ After that you will be able to switch language from a web interface **Personal S
 
 ## Authors
 
-* Russian by [kapabac](https://forum.sinusbot.com/resources/authors/kapabac.724/)
+* Russian by [kapabac](https://forum.sinusbot.com/resources/authors/kapabac.724/) improved by [HarpyWar](https://forum.sinusbot.com/resources/authors/harpywar.4055/)
 * French by [Dave](https://forum.sinusbot.com/resources/authors/dave.957/)
 * Turkish by [Bomlife](https://forum.sinusbot.com/resources/authors/bomlife.1246/)
 * Spanish by [rubencm](https://forum.sinusbot.com/resources/authors/rubencm.3889/)
