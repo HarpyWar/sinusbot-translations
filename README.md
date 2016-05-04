@@ -15,6 +15,7 @@ After that you will be able to switch language from a web interface **Personal S
 * Polish by [Leon@rdo](https://forum.sinusbot.com/resources/authors/leon-rdo.852/)
 * Brazilian by [Jean Santos](https://forum.sinusbot.com/resources/authors/jean-santos.1273/)
 * Italian by [UnwishingMoon](https://forum.sinusbot.com/resources/authors/unwishingmoon.252/)
+* Portuguese by [Philip Karka](https://forum.sinusbot.com/resources/authors/philip-karka.7100/)
 
 ## Note for Authors
 A web service [jsoneditoronline.org](http://jsoneditoronline.org/) was used to make json content readable. 
